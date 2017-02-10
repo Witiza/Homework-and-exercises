@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\lorienpl\documents\visual studio 2015\projects\mythbusters\mythbusters\source.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Mythbusters.vcxproj -> C:\Users\lorienpl\Documents\Visual Studio 2015\Projects\Mythbusters\Debug\Mythbusters.exe
+  Mythbusters.vcxproj -> C:\Users\lorienpl\Documents\Visual Studio 2015\Projects\Mythbusters\Debug\Mythbusters.pdb (Partial PDB)
